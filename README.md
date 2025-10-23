@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+FAHIM FAISAL SHIFAT!;+A+STUDENT+OF+CSE+IN+AIUB" />
 </h1>
 
-<h3 align="center">BSc. Software Engineer) | (Web Development, Networking, etc. ) | (Cloude Computing)</h3>
+<h3 align="center">(BSc. Software Engineer) | (Web Development, Networking, etc. ) | (Cloude Computing)</h3>
 
 <br/>
 
